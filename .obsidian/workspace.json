@@ -237,14 +237,19 @@
       }
     ]
   },
-  "active": "b25281d3313c6e63",
+  "active": "b850216bd38640d0",
   "lastOpenFiles": [
+    "PRC/Получение фреймворка акта деятельности.md",
+    "PRC/Получение схемы социотехнической связи.md",
+    "PRC",
+    "FRM/Социотехнические связи.md",
+    "FRM/Акт деятельности.md",
     "Акт деятельности.canvas",
+    "Стандарт Obsidian.md",
     "Продукт.md",
     "_sources/pdf/1_SHH_Putevoditel ORU.pdf",
     "_sources/pdf/Общая управленческая подготовка.pdf",
     "_sources/pdf/10й том.pdf",
-    "Стандарт Obsidian.md",
     "SRC",
     "MOC",
     "FRM",
@@ -256,7 +261,6 @@
     "_templates/TPL - framework (фрейм_схема).md",
     "_templates/TPL - excerpt (выдержка).md",
     "_templates/TPL - claim (тезис_суждение).md",
-    "_templates/TPL - MOC.md",
-    "_templates"
+    "_templates/TPL - MOC.md"
   ]
 }
