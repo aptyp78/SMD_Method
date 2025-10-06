@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стандарт Obsidian.md",
+                "file": "_templates/TPL - framework (фрейм_схема).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стандарт Obsidian"
+              "title": "TPL - framework (фрейм_схема)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стандарт Obsidian.md",
+                "file": "_templates/TPL - framework (фрейм_схема).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Стандарт Obsidian"
+              "title": "Backlinks for TPL - framework (фрейм_схема)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стандарт Obsidian.md",
+                "file": "_templates/TPL - framework (фрейм_схема).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Стандарт Obsidian"
+              "title": "Outgoing links from TPL - framework (фрейм_схема)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стандарт Obsidian.md",
+                "file": "_templates/TPL - framework (фрейм_схема).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Стандарт Obsidian"
+              "title": "Outline of TPL - framework (фрейм_схема)"
             }
           },
           {
@@ -237,15 +237,32 @@
       }
     ]
   },
-  "active": "b850216bd38640d0",
+  "active": "b25281d3313c6e63",
   "lastOpenFiles": [
-    "PRC/Получение фреймворка акта деятельности.md",
-    "PRC/Получение схемы социотехнической связи.md",
-    "PRC",
-    "FRM/Социотехнические связи.md",
-    "FRM/Акт деятельности.md",
-    "Акт деятельности.canvas",
+    "FRM/Фреймворк_Акта_деятельности.md",
+    "_sources/source_ОРУ-ГП.md",
+    "EXC/excerpt_субъект_и_средства.md",
+    "EXC/excerpt_преобразование_и_превращение.md",
+    "EXC/excerpt_мир_из_актов.md",
+    "EXC/excerpt_действия_и_орудия.md",
+    "CPT/concept_акт_деятельности.md",
+    "CLM/claim_сплав_действий_и_орудий.md",
+    "CLM/claim_мир_актов.md",
+    "CLM/claim_компоненты_акта.md",
+    "CLM/claim_двойная_стрелка.md",
+    "_templates/TPL - standart.md",
+    "_templates/TPL - source (карточка источника).md",
+    "_templates/TPL - MOC.md",
+    "_templates/TPL - framework (фрейм_схема).md",
+    "_templates/TPL - excerpt (выдержка).md",
+    "_templates/TPL - claim (тезис_суждение).md",
     "Стандарт Obsidian.md",
+    "PRC/Получение фреймворка акта деятельности.md",
+    "FRM/Социотехнические связи.md",
+    "PRC/Получение схемы социотехнической связи.md",
+    "FRM/Акт деятельности.md",
+    "PRC",
+    "Акт деятельности.canvas",
     "Продукт.md",
     "_sources/pdf/1_SHH_Putevoditel ORU.pdf",
     "_sources/pdf/Общая управленческая подготовка.pdf",
@@ -255,12 +272,6 @@
     "FRM",
     "EXC",
     "CPT",
-    "CLM",
-    "_templates/TPL - source (карточка источника).md",
-    "_templates/TPL - standart.md",
-    "_templates/TPL - framework (фрейм_схема).md",
-    "_templates/TPL - excerpt (выдержка).md",
-    "_templates/TPL - claim (тезис_суждение).md",
-    "_templates/TPL - MOC.md"
+    "CLM"
   ]
 }
